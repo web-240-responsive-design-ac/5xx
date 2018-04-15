@@ -8,6 +8,7 @@ function getContent() {
 		method: 'GET',
 		url: 'https://me.amiecroteau.com/wp-json/wp/v2/pages/?parent=' + parentPageID + '&order=asc&orderby=menu_order',
 		dataType: 'json',
+		/* Call to wp site */
 			
 		success: function (data) {
 			if (data.length > 0) {
