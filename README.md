@@ -11,5 +11,7 @@ inside out project 5xx - STEP-500.0 | Branch 500-0
 -updated and placed a picture in the header
 -adjusted colors via bootstrap classes
 -updated and added menu items and connected to the sections
+-created new app.js to call in wordpress material from me site
+-updated scrolling.nav with start scroll function
 
 
